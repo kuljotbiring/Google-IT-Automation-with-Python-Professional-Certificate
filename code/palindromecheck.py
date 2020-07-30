@@ -1,4 +1,4 @@
-# this function checks if the input string is a palindrome
+# this function checks if the input string is a palindrome or not
 
 def is_palindrome(input_string):
 	# We'll create two strings, to compare them
