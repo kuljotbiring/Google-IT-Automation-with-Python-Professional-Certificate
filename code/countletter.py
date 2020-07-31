@@ -1,6 +1,6 @@
 # counts the number of occurences of letters in a file
 def count_letters(text):
-    # make empty dictionary to hold results
+    # make an empty dictionary to hold results
     results = {}
 
     # iterate over text letters
